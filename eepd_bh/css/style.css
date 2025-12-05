@@ -1,0 +1,39 @@
+/*
+    Estilos customizados para o EEPD-BH
+*/
+
+/* Cor Primária da Navbar (bg-primary) é definida pelo Bootstrap.
+   Aqui, podemos adicionar um contraste ou estilo de fonte. */
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+/* Ajuste de altura do carrossel para ser mais imersivo */
+#carouselEEPD .carousel-item img {
+    height: 50vh; /* 50% da altura da viewport */
+    object-fit: cover; /* Garante que a imagem cubra toda a área */
+}
+
+.carousel-caption {
+    background: rgba(0, 0, 0, 0.5); /* Fundo escuro semi-transparente para o texto */
+    padding: 10px;
+    border-radius: 5px;
+}
+
+/* Garante que o texto da história esteja justificado */
+.text-justify {
+    text-align: justify;
+}
+
+/* Estilo para a seção de Destaques */
+.card-body.text-center {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+/* Estilização para o Footer */
+footer {
+    border-top: 5px solid #0056b3; /* Uma linha para separar do conteúdo */
+}
