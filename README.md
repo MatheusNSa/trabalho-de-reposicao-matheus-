@@ -68,9 +68,9 @@ As informações abaixo são exibidas de forma padronizada no rodapé de todas a
 
 Campo	Detalhe
 Instituição	Escola Estadual Presidente Dutra - BH
-CNPJ	000.000/0001-0c
+CNPJ	18.715.599/0001-05
 SRE	METROPOLITANA - A
-CEP	00000-000
-Endereço	Rua:xxxx Nºxxxx, Belo Horizonte - Minas Gerais - Brasil
+CEP	31.035-536
+Endereço Rua Carlos Tomoyose, Nº 2000, Belo Horizonte - Minas Gerais - Brasil
 Desenvolvimento	Desenvolvido pelo Desenvolvimento de Sistemas
 Direitos	© Todos os direitos reservados a EEPD
